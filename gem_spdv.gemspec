@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["gilson dourado"]
   spec.email         = ["gilsondourado10@gmail.com "]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{ Write a short summary, because RubyGems requires one.}
+  spec.description   = %q{ Write a longer description or delete this line.}
   spec.homepage      = "https://github.com/Gilson-Dourado10"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com:Gilson-Dourado10/gem-spdv.git."
+  spec.metadata["source_code_uri"] = "https://github.com/Gilson-Dourado10/gem-spdv"
   spec.metadata["changelog_uri"] = "https://github.com/Gilson-Dourado10"
 
   # Specify which files should be added to the gem when it is released.
